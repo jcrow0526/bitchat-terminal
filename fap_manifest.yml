@@ -1,0 +1,12 @@
+appid: bitchat
+name: BitChat
+apptype: FlipperApplication
+entry_point: bitchat_app
+requires:
+  - gui
+  - bt
+  - storage
+  - notification
+stack_size: 8192
+icon: A_BitChat_14
+category: Bluetooth

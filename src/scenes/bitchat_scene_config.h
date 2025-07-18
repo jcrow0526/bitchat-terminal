@@ -1,0 +1,7 @@
+ADD_SCENE(bitchat, start, Start)
+ADD_SCENE(bitchat, main_menu, MainMenu)
+ADD_SCENE(bitchat, chat, Chat)
+ADD_SCENE(bitchat, settings, Settings)
+ADD_SCENE(bitchat, set_nickname, SetNickname)
+ADD_SCENE(bitchat, join_channel, JoinChannel)
+ADD_SCENE(bitchat, peer_list, PeerList)
